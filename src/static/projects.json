@@ -1,0 +1,23 @@
+{
+    "projects": [
+        {
+            "name": "Vault",
+            "techstack": "React, Node.js, Express.js, MongoDB, Passport.js, HTML, CSS",
+            "details": "Store card details. Secure, Fast and Reliable.",
+            "codelink": "https://github.com/iDK-pseudo/vault",
+            "prodlink": ""
+        },
+        {
+            "name": "MovieToones",
+            "techstack": "Bootstrap, Flask, Python, HTML, CSS",
+            "details": "Showcasing latest movies.",
+            "codelink": "https://github.com/iDK-pseudo/movie"
+        },
+        {
+            "name": "Invoicer",
+            "techstack": "React, Spring Boot, Flask, Python, HTML, CSS",
+            "details": "Manage payments and remittances. B2B application.",
+            "codelink": "https://github.com/iDK-pseudo/manage-invoice-app"
+        }
+    ]
+}
