@@ -2,22 +2,29 @@
     "projects": [
         {
             "name": "Vault",
-            "techstack": "React, Node.js, Express.js, MongoDB, Passport.js, HTML, CSS",
-            "details": "Store card details. Secure, Fast and Reliable.",
+            "techstack": "React, Node.js, Express.js, MongoDB, Passport.js, Javascript, HTML, CSS",
+            "details": "Secure fintech app that lets you effortlessly store and manage all your card details in one convenient place",
             "codelink": "https://github.com/iDK-pseudo/vault",
-            "prodlink": ""
+            "prodlink": "https://effervescent-starburst-5b04f1.netlify.app/"
         },
         {
             "name": "MovieToones",
-            "techstack": "Bootstrap, Flask, Python, HTML, CSS",
-            "details": "Showcasing latest movies.",
+            "techstack": "Bootstrap, Flask, SQLite3, PostgreSQL, Python, Javascript, HTML, CSS",
+            "details": "Gateway to a world of captivating films and cinematic adventures",
             "codelink": "https://github.com/iDK-pseudo/movie"
         },
         {
-            "name": "Invoicer",
-            "techstack": "React, Spring Boot, Flask, Python, HTML, CSS",
-            "details": "Manage payments and remittances. B2B application.",
+            "name": "Invoice Manager",
+            "techstack": "React, Spring Boot, Flask, Python, Javascript, HTML, CSS",
+            "details": "Manage payments and remittances. B2B application built as part of Internship.",
             "codelink": "https://github.com/iDK-pseudo/manage-invoice-app"
+        },
+        {
+            "name": "Recall",
+            "techstack": "React, Bootstrap, Javascript, HTML, CSS",
+            "details": "Train your brain and catch 'em all with this exciting Pokemon Memory Game",
+            "codelink": "https://github.com/iDK-pseudo/recall-app",
+            "prodlink": "https://idk-pseudo.github.io/recall-app/"
         }
     ]
 }

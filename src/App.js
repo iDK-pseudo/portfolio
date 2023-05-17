@@ -12,8 +12,7 @@ function App() {
         <section class="about-section">
             <Title text="About"/>
             <p>
-                Software Developer having experience in making web applications from scratch. 
-                Built multiple responsive websites using React library.
+            Results-driven developer with expertise in <b>React.js, Node.js </b>and full-stack web development. Experienced in building scalable applications using <b>MongoDB and SQL databases</b>, ensuring efficient data management and retrieval. Proficient in <b>JavaScript and Spring Boot</b>, delivering high-quality solutions with strong problem-solving skills. A collaborative team player who excels in agile environments, consistently meeting project deadlines and exceeding client expectations.
             </p>
         </section>
         <section class="project-section">
@@ -27,18 +26,29 @@ function App() {
             <ul class="workex-list">
                 <li>
                     <p>
-                        <b>2019 - 2021</b>: Front End Developer and Graphic Designer , 
-                        Octav Bancila Highschool, designed and built the magazine website 
-                        claritatea.ro, designed two volumes of the Claritatea magazine and 
-                        one volume of the ArtEast magazine.
+                        <div class="workex-title">
+                            <b>Business Technology Analyst, Deloitte</b> 2021 - Present
+                        </div>
+                        <ul class="each-ex-list">
+                            <li>Developed and maintained responsive user interfaces using <b>React.js and UI5 libraries</b></li>
+                            <li>Collaborated with backend developers to design and implement RESTful APIs using <b>Node.js</b></li>
+                            <li>Implemented <b>data caching and optimization</b> techniques in React.js applications</li>
+                            <li>Integrated third-party libraries and frameworks in projects to enhance functionality such as data visualization libraries (HighCharts) or UI component libraries </li>
+                            <li>Worked with version control systems like <b>Git</b> for code management and collaborated effectively with team members using platforms like AzureGIT</li>
+                        </ul>
                     </p>
                 </li>
                 <li>
                     <p>
-                        <b>2019 - 2021</b>: Front End Developer and Graphic Designer , 
-                        Octav Bancila Highschool, designed and built the magazine website 
-                        claritatea.ro, designed two volumes of the Claritatea magazine and 
-                        one volume of the ArtEast magazine.
+                        <div class="workex-title">
+                            <b>Software Engineering Intern, HighRadius</b> 2020 - 2021
+                        </div>
+                        <ul class="each-ex-list"> 
+                            <li>Developed <b>Java</b>-based web agents and parsers using <b>Spring framework, Hibernate ORM, and SQL,</b> enabling efficient data extraction and processing from various sources.</li>
+                            <li>Implemented robust error handling and logging mechanisms in web agents and parsers, ensuring reliable and consistent performance in data retrieval and processing tasks.</li>
+                            <li>Optimized SQL queries and database operations improving data retrieval and manipulation efficiency and overall application performance</li>
+                            <li>Conducted code reviews and implemented unit tests to maintain code quality</li>
+                        </ul>
                     </p>
                 </li>
             </ul>
@@ -46,7 +56,11 @@ function App() {
         <section class="education-section">
             <Title text="Education"/>
             <div>
-                <p><b>2017-2021: B.Tech in Information Technology</b></p>
+                <div class="education-title">
+                    <b>B.Tech in Information Technology</b> 2017-2021
+                </div>
+                <p>Kalinga Institute of Industrial Technology</p>
+                <p>CGPA: <b>8.33/10</b></p>
             </div>
         </section>
         <section class="additional-section">
@@ -54,6 +68,8 @@ function App() {
             <ul>
                 <li>Linux</li>
                 <li>GIT</li>
+                <li>Microsoft Suite</li>
+                <li>TypeScript</li>
             </ul>
         </section>
     </div>
