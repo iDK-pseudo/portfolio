@@ -158,3 +158,13 @@ section {
   margin: 0;
   font-size: 14px;
 }
+
+@media screen and (max-width: 600px) {
+  body {
+    margin: 0 10% 0 10%;
+  }
+
+  .project-container {
+    line-height: 20px;
+  }
+}
